@@ -1,7 +1,7 @@
-# **1. sni_lookup.sh**
- _This script allows you to download and search Server Name Indication (SNI) IP ranges from various providers. It can be useful for network-related investigations and monitoring._
-
-
+# **sni_lookup.sh**
+ _This script allows you to download and search Server Name Indication (SNI) IP ranges from various providers._
+ The script allows users to update and download the latest SNI IP ranges, creating individual files for each provider. It also enables searching for a specific domain within these ranges. This tool is valuable for Bug Bounty Hunters, Pentesters, Red Teamers, and Blue Teamers, aiding in attack surface discovery, domain enumeration, asset inventory maintenance, monitoring, incident response, shadow IT identification, and phishing detection. Overall, it enhances security professionals' capabilities in identifying and addressing potential security risks.
+ 
 **CONTRIBUTERS**
 
 - `mr-rizwan-syed`
@@ -30,7 +30,6 @@ Replace `<domain>` with the domain you want to search for. The script will displ
 
 **Example**
 
-```./sni_lookup.sh example.com```
-
+```./sni_lookup.sh tesla.com```
 
 # **_Feel free to contribute, report issues, or suggest improvements._** 
