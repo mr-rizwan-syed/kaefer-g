@@ -1,4 +1,4 @@
-# **KGAY.SH**
+# **1. sni_lookup.sh**
  _This script allows you to download and search Server Name Indication (SNI) IP ranges from various providers. It can be useful for network-related investigations and monitoring._
 
 
